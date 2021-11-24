@@ -8,15 +8,11 @@ Dicts, Sets, and Tuples are alternative data structures in Python to Lists which
 
 ## Getting Started
 
-Respond to the questions in Challenge 1, 2, 3 and 4. Refer to the references if you are stuck.
+Respond to the questions in Challenge 1, 2, 3 and 4. 
 
 ## Deliverables
 
 - `challenge-1.ipynb`, `challenge-2.ipynb`, `challenge-3.ipynb`, and `challenge-4.ipynb` with your responses to each of the exercises.
-
-## Submission
-
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 
 ## References
 
